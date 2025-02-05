@@ -3,7 +3,7 @@
 Welcome to My GitHub Profile!
 
 - 🎓 Computer Science Student
-- 🧩 Developing skills in SQL, Python, Data Analytics & Visualization
+- 🧩 Developing skills in SQL, Python, Data Analytics & Visualization, Web Development
 - 📊 Interested in Data Analysis, Data Engineering, and related Fields
 
 I'm passionate about working with data to uncover insights, build efficient data pipelines, and develop scalable solutions. My focus is on mastering analytical tools, improving my coding skills, and working on real-world projects to apply my knowledge.
